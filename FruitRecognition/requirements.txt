@@ -1,0 +1,9 @@
+opencv-python
+streamlit
+beautifulsoup4
+requests
+numpy
+Pillow
+keras
+tensorflow
+
