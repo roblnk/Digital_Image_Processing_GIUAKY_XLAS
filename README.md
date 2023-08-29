@@ -29,6 +29,7 @@ Local URL: http://localhost:8501
 
 ### Run FruitRecognition:
 Go to folder FruitRecognition and then run this command:
+
     streamlit run manage.py
 
 
